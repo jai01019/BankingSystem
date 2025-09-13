@@ -7,6 +7,8 @@
 The Banking App is a full-stack MERN application that enables secure banking operations for both customers and bankers. It features JWT authentication, role-based access control, and transaction management with a modern responsive UI. The project demonstrates a production-style banking system with strong focus on security, scalability, and user experience.
 
 ⚛️ Components
+
+
 👤 Customer Components
 
 Login/Signup Forms – With input validation and error handling
@@ -67,3 +69,12 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 Authentication: JWT
+
+
+
+🚀 Getting Started
+
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/yourusername/banking-app.git
