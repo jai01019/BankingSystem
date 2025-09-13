@@ -77,4 +77,39 @@ Authentication: JWT
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/banking-app.git
+git clone https://github.com/jai01019/BankingSystem.git
+cd banking-system
+
+# Install backend dependencies
+cd backend
+npm install
+
+# Install frontend dependencies
+cd frontend2
+npm install
+
+
+.env
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
+
+
+📸 Screenshots
+
+customer dashboard 
+<img width="1465" height="905" alt="image" src="https://github.com/user-attachments/assets/b2f6d7e7-b74f-49ac-9c62-94c4cd03d664" />
+
+deposit 
+<img width="1472" height="917" alt="image" src="https://github.com/user-attachments/assets/c82b1d85-79d8-4aea-8c6f-3b158cc77413" />
+
+withdrawal
+<img width="1465" height="902" alt="image" src="https://github.com/user-attachments/assets/d1140e23-bd42-48c6-8bb1-dc84e531bc35" />
+
+bank dashboard 
+
+<img width="1466" height="915" alt="image" src="https://github.com/user-attachments/assets/47481e0d-ad4c-4ffc-b621-e14262fff73b" />
+
+
+
